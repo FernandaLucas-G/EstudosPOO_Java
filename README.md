@@ -19,7 +19,7 @@ Este repositório registra meu progresso aprendendo **Java** e os conceitos de *
 - [**Abordagem Procedural:**](src/Exercicios/Exercicio_1_Procedural.java) calcular a média de 3 notas direto no `main`.
 - [**Abordagem Orientada a Objetos:**](src/Exercicios/Exercicio_1_POO.java) criar classe `Aluno` com método `calcularMedia()`.
 
-### Exercício 2 — Ler nome do usuário
+### [Exercício 2 — Ler nome do usuário](src/Exercicios/Exercicio_2.java)
 - **Objetivo:** ler dados do usuário com `Scanner`.
 
 ### Exercício 3 — Classificar idade
