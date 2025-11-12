@@ -4,9 +4,9 @@ Este repositório registra meu progresso aprendendo **Java** e os conceitos de *
 Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 
 **Estrutura do Repositório**
-* Exercicios/ – Pacote com exercícios de prática em Java.
-* Exercicio_X/ – Projetos específicos para testar conceitos de POO.
-* README.md – Este arquivo, com informações sobre o repositório.
+* `Exercicios/` – Pacote com exercícios de prática em Java.
+* `Exercicio_X/` – Projetos específicos para testar conceitos de POO.
+* `README.md` – Este arquivo, com informações sobre o repositório.
 
 **Lista de Exercícios**
 
@@ -19,4 +19,4 @@ Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 * Objetivo: ler dados do usuário com Scanner.
 
 **Exercício 3 — Classificar idade**
-* Objetivo: usar `if` e else para tomar decisões.
+* Objetivo: usar `if` e `else` para tomar decisões.
