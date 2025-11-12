@@ -1,7 +1,7 @@
 package Exercicios_GPT;
 import java.util.Scanner;
 
-public class Exercicio_1_Procedural { // Precedural é como escrevemos no Python, por exemplo
+public class Exercicio_1_Procedural { // Procedural é como escrevemos no Python, por exemplo
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
