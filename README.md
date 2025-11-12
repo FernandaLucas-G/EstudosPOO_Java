@@ -1,4 +1,4 @@
-**Minha jornada estudando Programação Orientada a Objetos (Java)** 💻🩷
+**Minha jornada estudando Programação Orientada a Objetos (Java)** 👩🏻‍💻🩷
 
 Este repositório registra meu progresso aprendendo **Java** e os conceitos de **Programação Orientada a Objetos (POO).**
 Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
