@@ -16,7 +16,7 @@ Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 * **Abordagem Orientada a Objetos:** criar `classe` Aluno com método `calcularMedia()`.
 
 **Exercício 2 — Ler nome do usuário**
-* Objetivo: ler dados do usuário com `Scanner`.
+* **Objetivo:** ler dados do usuário com `Scanner`.
 
 **Exercício 3 — Classificar idade**
-* Objetivo: usar `if` e `else` para tomar decisões.
+* **Objetivo:** usar `if` e `else` para tomar decisões.
