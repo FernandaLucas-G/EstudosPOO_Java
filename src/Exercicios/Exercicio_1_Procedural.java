@@ -1,4 +1,4 @@
-package Exercicios_GPT;
+package Exercicios;
 import java.util.Scanner;
 
 public class Exercicio_1_Procedural { // Procedural é como escrevemos no Python, por exemplo
