@@ -12,7 +12,7 @@ Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 
 **Exercício 1 — Procedural x Orientado a Objetos**
 * Objetivo: entender a diferença entre programar de forma direta e usando classes.
-* Procedural: calcular a média de 3 notas direto no main.
+* Procedural: calcular a média de 3 notas direto no `main`.
 * Orientado a objetos: criar `classe` Aluno com método `calcularMedia()`.
 
 **Exercício 2 — Ler nome do usuário**
