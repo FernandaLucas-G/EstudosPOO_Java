@@ -1,16 +1,24 @@
 package Exercicios;
-import java.util.Scanner; // Importamos o pacote pronto .util do Java e pedimos a ferramenta Scanner para ler os dados fornecidos pelo usuário
+import java.util.Scanner; 
+// Importa o pacote java.util e pede a ferramenta Scanner para ler dados fornecidos pelo usuário
 
 public class Exercicio_2 {
 
-	public static void main(String[] args) {
-		Scanner teclado = new Scanner(System.in); // Criando o leitor, Scanner é uma das classes (ferramentas, códigos prontos) que vem nesse pacote que importamos, teclado é só o nome que escolhemos dar
-		System.out.print("Digite seu nome: "); // Aqui colocamos o texto que aparece antes do "input"
-		String nome = teclado.nextLine(); // Aqui é o comando que armazena a informação digitada, dentro da variavel string "nome"
-		System.out.println("Olá, " + nome + "!"); // Junta o "Print" com a informação que guardamos na variavel "nome", ele chama a variavel e vai mostrar o que o usuário digitou
-		teclado.close(); // Fecha o objeto teclado para poupar recursos (O Java fecha sozinho mas fechamos por boa prática)
-		// TODO Auto-generated method stub
+    public static void main(String[] args) {
+        // Criando o leitor de entrada
+        // Scanner é uma classe pronta no Java; 'teclado' é o nome do objeto que escolhemos
+        Scanner teclado = new Scanner(System.in);
 
-	}
+        // Passo 1: Solicitar o nome do usuário
+        System.out.print("Digite seu nome: "); 
 
+        // Passo 2: Armazenar o nome digitado em uma variável
+        String nome = teclado.nextLine(); 
+
+        // Passo 3: Exibir uma mensagem personalizada
+        System.out.println("Olá, " + nome + "!"); 
+
+        // Fechar o scanner para liberar recursos (boa prática)
+        teclado.close(); 
+    }
 }
