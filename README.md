@@ -7,3 +7,11 @@ Estrutura do Repositório
 * Exercicios/ – Pacote com exercícios de prática em Java.
 * Exercicio_X/ – Projetos específicos para testar conceitos de POO.
 * README.md – Este arquivo, com informações sobre o repositório.
+
+Exercício 1 — Procedural x Orientado a Objetos 
+* Objetivo: entender a diferença entre programar de forma direta e usando classes.
+* Procedural: calcular a média de 3 notas direto no main.
+* Orientado a objetos: criar classe Aluno com método calcularMedia().
+
+Exercício 2 — Ler nome do usuário
+* Objetivo: ler dados do usuário com Scanner.
