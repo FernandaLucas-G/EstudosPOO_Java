@@ -22,5 +22,5 @@ Este repositório registra meu progresso aprendendo **Java** e os conceitos de *
 ### [Exercício 2 — Ler nome do usuário](src/Exercicios/Exercicio_2.java)
 - **Objetivo:** ler dados do usuário com `Scanner`.
 
-### Exercício 3 — Classificar idade
+### [Exercício 3 — Classificar idade](src/Exercicios/Exercicio_3.java)
 - **Objetivo:** usar `if` e `else` para tomar decisões.
