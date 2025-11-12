@@ -14,7 +14,7 @@ Este repositório registra meu progresso aprendendo **Java** e os conceitos de *
 
 ## Lista de Exercícios
 
-### - [Exercício 1 — Procedural x Orientado a Objetos](Exercicios/Exercicio_1_POO.java)
+### - [Exercício 1 — Procedural x Orientado a Objetos](src/Exercicios/Exercicio_1_POO.java)
 - **Objetivo:** entender a diferença entre programar de forma direta e usando classes.
 - **Abordagem Procedural:** calcular a média de 3 notas direto no `main`.
 - **Abordagem Orientada a Objetos:** criar classe `Aluno` com método `calcularMedia()`.
