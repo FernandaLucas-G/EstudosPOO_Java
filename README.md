@@ -15,3 +15,6 @@ Exercício 1 — Procedural x Orientado a Objetos
 
 Exercício 2 — Ler nome do usuário
 * Objetivo: ler dados do usuário com Scanner.
+
+Exercício 3 — Classificar idade
+* Objetivo: usar if e else para tomar decisões.
