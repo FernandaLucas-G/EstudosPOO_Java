@@ -7,7 +7,8 @@ class Aluno {
 	}
 }
 
-// Class é a receita e o Objeto é o bolo pronto, quando criamos uma classe criamos um método, colocamos esse método dentro de um objeto e só chamamos o objeto
+// Class é a receita e o Objeto é o bolo pronto
+// Quando criamos uma classe, criamos métodos que depois chamamos através de objetos
 
 public class Exercicio_1_POO {
 	public static void main(String[] args) {
