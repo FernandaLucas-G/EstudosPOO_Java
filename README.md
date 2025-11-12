@@ -9,6 +9,7 @@ Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 * README.md – Este arquivo, com informações sobre o repositório.
 
 **Exercícios**
+
 **Exercício 1 — Procedural x Orientado a Objetos**
 * Objetivo: entender a diferença entre programar de forma direta e usando classes.
 * Procedural: calcular a média de 3 notas direto no main.
