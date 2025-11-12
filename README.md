@@ -8,7 +8,7 @@ Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 * Exercicio_X/ – Projetos específicos para testar conceitos de POO.
 * README.md – Este arquivo, com informações sobre o repositório.
 
-**Exercícios**
+**Lista de Exercícios**
 
 **Exercício 1 — Procedural x Orientado a Objetos**
 * Objetivo: entender a diferença entre programar de forma direta e usando classes.
