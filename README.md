@@ -4,6 +4,6 @@ Este repositório registra meu progresso aprendendo **Java** e os conceitos de *
 Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 
 Estrutura do Repositório
-* Exercicios_GPT/ – Pacote com exercícios de prática em Java.
-* Projeto_X/ – Projetos específicos para testar conceitos de POO.
+* Exercicios/ – Pacote com exercícios de prática em Java.
+* Exercicio_X/ – Projetos específicos para testar conceitos de POO.
 * README.md – Este arquivo, com informações sobre o repositório.
