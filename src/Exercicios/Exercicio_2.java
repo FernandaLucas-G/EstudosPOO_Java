@@ -1,4 +1,4 @@
-package Exercicios_GPT;
+package Exercicios;
 import java.util.Scanner; // Importamos o pacote pronto .util do Java e pedimos a ferramenta Scanner para ler os dados fornecidos pelo usuário
 
 public class Exercicio_2 {
