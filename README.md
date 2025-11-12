@@ -19,4 +19,4 @@ Cada projeto, mesmo simples, representa um passo importante no meu aprendizado.
 * Objetivo: ler dados do usuário com Scanner.
 
 **Exercício 3 — Classificar idade**
-* Objetivo: usar if e else para tomar decisões.
+* Objetivo: usar `if` e else para tomar decisões.
